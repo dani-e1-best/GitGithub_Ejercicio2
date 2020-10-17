@@ -1,8 +1,12 @@
-# Hola! Me llamo *John Doe*
+# Hola! Me llamo *Daniel Pliego Vega*
 
-- A mi me gusta jugar videojuegos como Stardew Valley y Hollow Knight!
+- A mi me gusta jugar videojuegos como la trilogia de Batman Arkham y los juegos de Assasin's creed
 
-- Me gustaría aprender acerca de *desarrollo web* y d*esarrollo de aplicaciones*
+- Me gustaría aprender acerca de *desarrollo web, bases de datos e inteligencia artificial*
 
 > Mi materia favorita es *Fundamentos de Ingeniería de Software*
+
+-Vivo en Campeche pero soy de Morelos
+
+-Me gusta mucho la programación 
 
