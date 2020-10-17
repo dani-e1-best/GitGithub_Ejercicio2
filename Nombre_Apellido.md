@@ -4,9 +4,10 @@
 
 - Me gustaría aprender acerca de *desarrollo web, bases de datos e inteligencia artificial*
 
-> Mi materia favorita es *Fundamentos de Ingeniería de Software*
-
 -Vivo en Campeche pero soy de Morelos
 
 -Me gusta mucho la programación 
+
+> Mi materia favorita es *Fundamentos de Ingeniería de Software*
+
 
