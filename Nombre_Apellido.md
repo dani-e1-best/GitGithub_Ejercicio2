@@ -4,9 +4,9 @@
 
 - Me gustaría aprender acerca de *desarrollo web, bases de datos e inteligencia artificial*
 
--Vivo en Campeche pero soy de Morelos
+- Vivo en Campeche pero soy de Morelos
 
--Me gusta mucho la programación 
+- Me gusta mucho la programación 
 
 > Mi materia favorita es *Fundamentos de Ingeniería de Software*
 
